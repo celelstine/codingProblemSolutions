@@ -1,2 +1,4 @@
 # codingProblemSolutions
-a store for programming world problem with attempt to solved them
+This repository contains a list of programming exercises and their possible solutions
+
+Each exercises is contianed in a single file
