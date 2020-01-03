@@ -5,7 +5,7 @@ def solution(list):
 
     for num in list:
         index_number_to_be_remove = None
-        number_to_be_remove = num;
+        number_to_be_remove = num
 
         if num < 0:
             if len(two_largest_negative_numbers) == 0:
